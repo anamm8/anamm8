@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Ana Maria Costa 👋
 
-<!--
-**anamm8/anamm8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | B.Sc. Student in Computer Science | RPA Specialist
 
-Here are some ideas to get you started:
+I am a former Healthcare Professional (Cardiac, Respiratory and Sleep Physiologist) who transitioned into the Tech world.
+Currently, I work at **Engibots**, where I build Full-stack solutions and intelligent automations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently pursuing a **B.Sc. in Computer Science** (2024-2027).
+- 🛠️ Tech Stack: **C# .NET, Angular, Python, MySQL, Azure OpenAI**.
+- 🤖 Specialized in **RPA (UiPath to Python migrations)** and API integrations.
+- 🏥 Background: 8 years of clinical experience, bringing "clinical rigor" to software quality.
+
+---
+### 🛠️ Featured Projects
